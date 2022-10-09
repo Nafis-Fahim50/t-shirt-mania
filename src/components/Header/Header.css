@@ -1,0 +1,7 @@
+.header, .header a{
+    margin-left: 20px;
+    text-decoration: none;
+    background-color: gray;
+    padding: 15px;
+    color: white;
+}
